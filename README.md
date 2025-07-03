@@ -2,3 +2,7 @@
 <hr>
 <h2>Team Name:- Git Reapers</h2>
 <h2>Contributors:- Joshua Karthik, Adiseshan Ramanan</h2>
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
